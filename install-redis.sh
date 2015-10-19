@@ -11,3 +11,5 @@ cd redis-3.0.3
 sudo make
 
 sudo make install
+
+redis-server
